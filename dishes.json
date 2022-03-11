@@ -2,83 +2,83 @@
    "dishes":[
       {
          "code":"gov1",
-         "price":"1500.0"
+         "price":"1500,0"
       },
       {
          "code":"gov2",
-         "price":"1600.0"
+         "price":"1600,0"
       },
       {
          "code":"gov3",
-         "price":"1700.0"
+         "price":"1700,0"
       },
       {
          "code":"gov4",
-         "price":"2000.0"
+         "price":"2000,0"
       },
       {
          "code":"svin1",
-         "price":"1300.0"
+         "price":"1300,0"
       },
       {
          "code":"svin2",
-         "price":"1700.0"
+         "price":"1700,0"
       },
       {
          "code":"gor1",
-         "price":"2000.0"
+         "price":"2000,0"
       },
       {
          "code":"gor2",
-         "price":"2100.0"
+         "price":"2100,0"
       },
       {
          "code":"sem1",
-         "price":"2200.0"
+         "price":"2200,0"
       },
       {
          "code":"los1",
-         "price":"2500.0"
+         "price":"2500,0"
       },
       {
          "code":"los2",
-         "price":"4000.0"
+         "price":"4000,0"
       },
       {
          "code":"soup1",
-         "price":"1000.0"
+         "price":"1000,0"
       },
       {
          "code":"soup2",
-         "price":"1100.0"
+         "price":"1100,0"
       },
       {
          "code":"soup3",
-         "price":"900.0"
+         "price":"900,0"
       },
       {
          "code":"soup4",
-         "price":"700.0"
+         "price":"700,0"
       },
       {
          "code":"choc1",
-         "price":"100.0"
+         "price":"100,0"
       },
       {
          "code":"choc2",
-         "price":"150.0"
+         "price":"150,0"
       },
       {
          "code":"fruit1",
-         "price":"300.0"
+         "price":"300,0"
       },
       {
          "code":"fruit2",
-         "price":"200.0"
+         "price":"200,0"
       },
       {
          "code":"fruit3",
-         "price":"500.0"
+         "price":"500,0"
       }
    ]
 }
